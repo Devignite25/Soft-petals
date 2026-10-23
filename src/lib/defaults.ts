@@ -38,9 +38,9 @@ export const DEFAULT_SETTINGS: SiteSettings = {
   brand: {
     name: "Soft Petals",
     tagline: "Raw Hair Collection",
-    logoUrl: "/brand/icon.webp",
+    logoUrl: "/brand/icon.svg",
     showName: true,
-    faviconUrl: "/brand/icon.webp",
+    faviconUrl: "/brand/icon.svg",
   },
   theme: {
     // Taken from the Soft Petals logo: black, hot pink, gold.
@@ -72,7 +72,7 @@ export const DEFAULT_SETTINGS: SiteSettings = {
   social: { instagram: "", facebook: "", tiktok: "", youtube: "", x: "" },
   booking: { label: "Shop Now", url: "/shop", showInHeader: true },
   hero: {
-    logoUrl: "/brand/logo.webp",
+    logoUrl: "/brand/logo.svg",
     heading: "100% raw, natural human hair.",
     subheading: "Bundles, wigs, closures and frontals made from real human hair that looks, feels and wears like your own.",
     imageUrl: "",
@@ -103,7 +103,7 @@ export const DEFAULT_SETTINGS: SiteSettings = {
   seo: {
     title: "",
     description: "100% natural human hair bundles, wigs, closures and frontals.",
-    ogImageUrl: "/brand/logo.webp",
+    ogImageUrl: "/brand/logo.svg",
   },
 };
 
